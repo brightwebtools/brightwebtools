@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @brightwebtools... I'm creating a next-gen web-services platform
+- Brightweb: the next-gen web-services platform
 
 - Currently in stealth
 
