@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @brightwebtools
-
-- Creating a next-gen web-services platform
+- 👋 Hi, I’m @brightwebtools... I'm creating a next-gen web-services platform
 
 - Currently in stealth
 
